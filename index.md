@@ -1,16 +1,16 @@
-# Page Title
+# Nate's progress
 
-A short introduction for the top of your main page
+Im Nate, and this is my website.
 
 
-More content you want on your page
+I like to play video games.
 
 
 
 <!-- use this to make a menu when you add more pages -->
-<!-- ```{toctree}
+```{toctree}
 :maxdepth: 2
 :hidden:
 
 pechakucha
-``` -->
+```
