@@ -1,6 +1,6 @@
 # -- Project information -----------------------------------------------------
 
-project = 'Site Title'
+project = 'nates progress'
 copyright = '2022, Your name'
 author = 'Your Name'
 
