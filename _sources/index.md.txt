@@ -11,5 +11,5 @@ More content you want on your page
 :maxdepth: 2
 :hidden:
 
-Pechakucha
+pechakucha
 ```

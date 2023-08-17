@@ -1,7 +1,9 @@
 # PechaKucha
 
+<div id="slideshow">
 
-```{include} _static/play_pause.html
+
+```{include} _static/buttons.html
 ```
 
 
@@ -14,7 +16,7 @@
 ```{card}
 :class-card: slide
 
-![cat](_static/img/imges.png)
+![cat](_static/img/images.jpg)
 ```
 
 
@@ -210,7 +212,7 @@
 ```
 ```
 
-
+</div>
 
 
 
